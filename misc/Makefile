@@ -9,3 +9,4 @@ testvalust:
 
 clean:
 	rm -f testopt
+	rm -f testvalust

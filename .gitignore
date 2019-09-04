@@ -1,5 +1,7 @@
-copy
-tee
-testopt
-seek
-testvalist
+iotest/copy
+iotest/tee
+iotest/seek
+iotest/cp
+
+misc/testvalist
+misc/testopt

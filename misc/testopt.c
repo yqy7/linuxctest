@@ -37,5 +37,8 @@ int main(int argc, char *argv[])
 			break;
 		}
 	}
+
+	printf("非选项的第一个参数: %s\n", argv[optind]);
+
 	return 0;
 }
